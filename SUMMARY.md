@@ -14,7 +14,6 @@
 * [Music Disc & Goat Horn](customization/music-disc-and-goat-horn.md)
 * [Maps](customization/maps.md)
 * [Armor Stand](customization/armor-stand.md)
-* [Mini Blocks](customization/mini-blocks.md)
 * [Custom item models](customization/custom-models.md)
 
 ## Gameplay
@@ -23,7 +22,7 @@
 * [Utilities](gameplay/utilities.md)
 * [Proximity voice chat](gameplay/voice-chat.md)
 * [World & structures](gameplay/world-generation.md)
-* [Structures](gameplay/structures.md)
+* [Decorations](gameplay/decorations.md)
 
 ## Other
 

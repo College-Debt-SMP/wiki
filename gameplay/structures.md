@@ -1,6 +1,0 @@
----
-icon: fort
----
-
-# Structures
-
