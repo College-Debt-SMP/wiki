@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: newspaper
 cover: .gitbook/assets/Banner.png
 coverY: 6
 layout:
@@ -20,9 +20,12 @@ layout:
 
 # Welcome
 
-These pages will cover information about the SMP as well as additional features on the server not found in vanilla Minecraft. If you need to look at features relating to the base game, use the [Minecraft Wiki](https://minecraft.wiki).
+> H to G do kibda skibiby\
+> \- Zeroaf 2024
 
+This site will serve as a hub for all information you may need to know about the server.
 
+For any base features that is part of the base game, refer to the [Minecraft Wiki](https://minecraft.wiki).
 
 ### Jump right in
 

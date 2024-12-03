@@ -6,7 +6,7 @@
 ## Basic informations
 
 * [Play](basic-informations/play.md)
-* [World settings](basic-informations/publish-your-docs.md)
+* [Game rules](basic-informations/publish-your-docs.md)
 * [Maintenance](basic-informations/maintenance.md)
 * [Performance improvement](basic-informations/performance-improvement.md)
 
@@ -28,4 +28,7 @@
 ## Other
 
 * [Microsoft 365](other/microsoft-365.md)
-* [Server administration](other/server-administration.md)
+
+***
+
+* [Restart server](https://example.com)
