@@ -1,9 +1,20 @@
 ---
-description: History of server updates
 icon: clock
+description: History of server updates
 ---
 
 # Changelog
+
+<details>
+
+<summary>The Garden Awakens - <em>TBA</em></summary>
+
+Changes:
+
+* Update to 1.21.4
+* Bundles are now part of the core game
+
+</details>
 
 <details>
 
@@ -138,3 +149,10 @@ Server is now running on Minecraft release version 1.20.4
 
 </details>
 
+<details>
+
+<summary>Initial server creation - 3/17/2023</summary>
+
+
+
+</details>
