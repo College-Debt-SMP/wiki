@@ -1,15 +1,23 @@
 ---
-icon: clock
 description: History of server updates
+icon: clock
 ---
 
 # Changelog
 
 <details>
 
-<summary>The Garden Awakens - <em>TBA</em></summary>
+<summary>Spring to Life - 4/11/2025</summary>
 
-Changes:
+* Update to 1.21.5
+* Image2Map temporarily made unavailable
+* Sitting mechanics are now easier. You can sit by simply look down and crouch.
+
+</details>
+
+<details>
+
+<summary>The Garden Awakens - 12/21/2024</summary>
 
 * Update to 1.21.4
 * Bundles are now part of the core game

@@ -18,12 +18,12 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Home
 
 > H to G do kibda skibiby\
 > \- Zeroaf 2024
 
-This site will serve as a hub for all information you may need to know about the server.
+Welcome to the College Debt SMP! This site will serve as a hub for all information you may need to know about the server.
 
 For any base features that is part of the base game, refer to the [Minecraft Wiki](https://minecraft.wiki).
 

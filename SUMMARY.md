@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Home](README.md)
 * [Changelog](changelog.md)
 
 ## Basic informations
@@ -25,10 +25,7 @@
 * [World & structures](gameplay/world-generation.md)
 * [Decorations](gameplay/decorations.md)
 
-## Other
+## College Debt Services
 
-* [Microsoft 365](other/microsoft-365.md)
-
-***
-
-* [Restart server](https://example.com)
+* [College Debt 365](college-debt-services/college-debt-365.md)
+* [Compute Cluster](college-debt-services/compute-cluster.md)
