@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: image-landscape
 ---
 
@@ -20,7 +21,7 @@ To adjust your image, you can use the following command while in preview:
 
 * `/normalize <WIDTH>` - Resize the image to the specified width in Minecraft blocks ranging from 1 to 8 while maintaining the original aspect ratio. In most cases, this is the recommended method of resizing your image
 * `/size <WIDTH> <HEIGHT>` - Resize the image to the specified width and height in pixels. Each Minecraft map is 128x128 in size. Aspect ratio are not automatically maintain and are stretched to fit the specified size.
-* `/dither <[floyd/none]>` - Changes dither mode. You can choose either the [Floyd–Steinberg dithering](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg\_dithering) or none
+* `/dither <[floyd/none]>` - Changes dither mode. You can choose either the [Floyd–Steinberg dithering](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering) or none
 * `/size` - Displays current dimension of the map
 * `/grid` - Toggles visibility of map grid. The grid corresponds to one block
 

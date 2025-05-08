@@ -1,6 +1,0 @@
----
-icon: cubes
----
-
-# Mini Blocks
-

@@ -1,18 +1,11 @@
 ---
+noIndex: true
 icon: arrow-right-to-bracket
 ---
 
 # Play
 
 If you're new, then welcome! The College Debt SMP is a survival multiplayer (SMP) Minecraft server where you would play like in any survival world.
-
-{% hint style="info" %}
-Server address: mc.sheldonbois.us.kg
-{% endhint %}
-
-## A "vanilla+" server
-
-The server has been modded in a way that expand upon the existing gameplay designs and features of vanilla Minecraft to provide more content while staying true to the look and feel of the base game. Players do not have to install any mods to play on the server unless they want to utilize certain optional features. Refer to the sections lower in the sidebar for the modded stuff.
 
 ## Play on Bedrock
 

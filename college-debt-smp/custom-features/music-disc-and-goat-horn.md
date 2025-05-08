@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: compact-disc
 ---
 

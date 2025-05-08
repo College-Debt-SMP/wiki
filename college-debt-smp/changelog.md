@@ -1,5 +1,6 @@
 ---
 description: History of server updates
+noIndex: true
 icon: clock
 ---
 
