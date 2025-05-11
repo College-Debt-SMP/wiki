@@ -22,6 +22,6 @@
 ## College Debt Services
 
 * [College Debt 365](college-debt-services/college-debt-365.md)
-* [Compute Cluster (preview)](college-debt-services/compute-cluster-preview/README.md)
-  * [Administrative guide](college-debt-services/compute-cluster-preview/administrative-guide.md)
-  * [Page 1](college-debt-services/compute-cluster-preview/page-1.md)
+* [Compute Cluster (overview)](college-debt-services/compute-cluster-overview/README.md)
+  * [Administrative guide](college-debt-services/compute-cluster-overview/administrative-guide.md)
+  * [Page 1](college-debt-services/compute-cluster-overview/page-1.md)

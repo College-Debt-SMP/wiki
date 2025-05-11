@@ -1,4 +1,5 @@
 ---
+description: Introducing the plan to create our own Kubernetes cluster for free
 hidden: true
 noIndex: true
 icon: server
@@ -7,9 +8,9 @@ cover: >-
 coverY: 46
 ---
 
-# Compute Cluster (preview)
+# Compute Cluster (overview)
 
-The Compute Cluster, once successfully materialized, will be a powerful network of servers that work together to provide cloud computing and self-hosted services for the Sheldon Bois. This will serve as a major upgrade to the current server infrastructure that runs the College Debt SMP while offering more power to run software in parallel.
+The Compute Cluster will be a powerful network of servers that work together to provide cloud computing and self-hosted services for the Sheldon Bois. This is a major upgrade to the current server infrastructure that runs the College Debt SMP and give it more power.
 
 In order to achieve this to the greatest extend, I invite everyone to take part in this new technological initiative. I'll explain more below to why this is more of a group project.
 
@@ -25,15 +26,14 @@ By creating your own Oracle Cloud account, you will have free access to the same
 
 If anyone have access to any other machines that you would like to include in our server cluster, I'm also open to it. lol
 
-## Technical facts
+## Properties
 
-To help motivate the outcome of this project, I will describe the technical specification on how things are planned to work:
+To help motivate this system, here's a few facts about this whole ordeal:
 
 * Each Oracle Cloud account can claim up to 4 OCPU (equivalent to 4 cores, 4 threads) and 24 GB of ram for the free virtual machine. Think about when we scale this up to how many of us there are...
-* Our sheldonbois.dpdns.org domain will serve as an entry point to access anything that we run on the server that has a web GUI
-* For authentication purposes, you will need to log into your College Debt 365 account before you can access our hosted pages. You usually only need to do this one time for every new browser profile.
-* Apps and software will be deployed as containers using Kubernetes (or Docker Swarm if I'm too lazy) as an orchestrator.
+* Our sheldonbois.dpdns.org domain will serve as an entry point to access anything that we run on the server that has a web GUI.
+* For authentication purposes, you will need to log into your College Debt 365 account before you can access our hosted pages. You usually only need to do this one time for every new browser profile. If you have not log into your account before, please notify me.
 
-## Setup ahead of time
+## Head start
 
-I will not be working on this plan until I'm officially out of the school year. For those who are already on break, you may get a head start on your part of this project. It should not take long. Let me know if you want to do it.
+I will not be working on this plan until I'm officially out of the school year in mid June. For those who are already on break, you may get a head start on your part of this project. It should not take long. Let me know when you're ready.
