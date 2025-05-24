@@ -19,9 +19,8 @@
 * [Changelog](college-debt-smp/changelog.md)
 * [Maintenance guide](college-debt-smp/maintenance-guide.md)
 
-## College Debt Services
+## College Debt Cloud
 
-* [College Debt 365](college-debt-services/college-debt-365.md)
-* [Compute Cluster (overview)](college-debt-services/compute-cluster-overview/README.md)
-  * [Administrative guide](college-debt-services/compute-cluster-overview/administrative-guide.md)
-  * [Page 1](college-debt-services/compute-cluster-overview/page-1.md)
+* [College Debt 365](college-debt-cloud/college-debt-365.md)
+* [Compute Cluster](college-debt-cloud/compute-cluster/README.md)
+  * [Administrative guide](college-debt-cloud/compute-cluster/administrative-guide.md)
