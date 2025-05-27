@@ -1,6 +1,5 @@
 ---
 description: Introducing the college student equivalent to a super computer
-hidden: true
 noIndex: true
 icon: server
 cover: >-
@@ -46,10 +45,12 @@ To help motivate this system, here's a few facts about this whole ordeal:
 * The sheldonbois.dpdns.org domain will serve as an entry point to access anything that we run on the server that has a web GUI.
 * For authentication purposes, you will need to use your College Debt 365 account before you can access our hosted pages. You usually only need to do this one time for every new browser profile. If you have not log into your account before, please notify me.
 
-## How much time and resources is needed from me?
+## What do I have to do for this?
 
 Not much. I would say it will only take 15 minutes to 30 minutes max for you to setup your accounts and let me handle the rest on your part. There may be some delay in resource availability due to the account being new, but it should not take too much more of your own time.
 
 Credit card disclaimer: Because Oracle can be very stingy of potential bots and abuse of their free tier, they may require that you need to put your banking card on file for verification. At the very most, they will do a tiny charge to your account and then immediately refund it back to you. It will not cost you anything.
 
 To ensure that people will not lose anything out of this, it will be my responsibility to ensure that your account is within your free threshold as well as to notify everyone about potential policy changes from the server provider. I have been doing this for 2 years, and the process are generally still the same as of now.
+
+In addition, if any of you would like to help me with the administrative side of this, then I'm happy to bring you on board.
