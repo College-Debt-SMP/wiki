@@ -4,9 +4,8 @@
 
 ## College Debt SMP
 
-* [Play](college-debt-smp/play/README.md)
-  * [Performance improvement](college-debt-smp/play/performance-improvement.md)
-  * [Server policy](college-debt-smp/play/publish-your-docs.md)
+* [Quick start](college-debt-smp/play.md)
+* [Update history](college-debt-smp/update-history.md)
 * [Custom features](college-debt-smp/custom-features/README.md)
   * [Music Disc & Goat Horn](college-debt-smp/custom-features/music-disc-and-goat-horn.md)
   * [Maps](college-debt-smp/custom-features/maps.md)
@@ -16,11 +15,14 @@
   * [World & structures](college-debt-smp/custom-features/world-generation.md)
   * [Utilities](college-debt-smp/custom-features/utilities.md)
   * [Crafting recipes](college-debt-smp/custom-features/crafting-recipes.md)
-* [Changelog](college-debt-smp/changelog.md)
-* [Maintenance guide](college-debt-smp/maintenance-guide.md)
+  * [Virtual Reality](college-debt-smp/custom-features/virtual-reality.md)
+* [Server policy](college-debt-smp/publish-your-docs.md)
+* [Manual restart](college-debt-smp/manual-restart.md)
 
-## College Debt Cloud
+## Cloud Debt
 
-* [College Debt 365](college-debt-cloud/college-debt-365.md)
-* [Compute Cluster](college-debt-cloud/compute-cluster/README.md)
-  * [Administrative guide](college-debt-cloud/compute-cluster/administrative-guide.md)
+* [Cloud Debt 365](cloud-debt/cloud-debt-365.md)
+* [Connect to VPN](cloud-debt/connect-to-vpn.md)
+* [Server Cluster](cloud-debt/server-cluster/README.md)
+  * [Introduction](cloud-debt/server-cluster/introduction.md)
+  * [Administrative guide](cloud-debt/server-cluster/administrative-guide.md)

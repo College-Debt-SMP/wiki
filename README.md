@@ -2,20 +2,6 @@
 icon: newspaper
 cover: .gitbook/assets/Banner.png
 coverY: 6
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Home

@@ -1,6 +1,10 @@
 ---
+description: The non-vanilla Minecraft, but still vanilla-like, features of the SMP
 noIndex: true
 icon: sparkles
+cover: >-
+  https://cdn.modrinth.com/data/hl5OLM95/images/5cbbe481978c2e51f7a972619ed1fe455c33aede.png
+coverY: 0
 ---
 
 # Custom features

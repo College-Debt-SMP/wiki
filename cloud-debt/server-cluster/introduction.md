@@ -1,13 +1,13 @@
 ---
 description: Introducing the college student equivalent to a super computer
 noIndex: true
-icon: server
+icon: circle-nodes
 cover: >-
   https://images.unsplash.com/photo-1605745341075-1b7460b99df8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxEb2NrZXJ8ZW58MHx8fHwxNzQ1MDUzOTA2fDA&ixlib=rb-4.0.3&q=85
 coverY: 46
 ---
 
-# Compute Cluster
+# Introduction
 
 The "Compute Cluster" is a planned major upgrade to our private server system to provide more power for cloud computing and self-hosted services. The main purpose is to be able to run more cool things without bogging down the College Debt SMP as much as possible, in which there is a way to do it for free! (of course it should be, or else I won't even dare to glaze this proposal)
 

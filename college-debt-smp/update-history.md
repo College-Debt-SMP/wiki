@@ -4,11 +4,35 @@ noIndex: true
 icon: clock
 ---
 
-# Changelog
+# Update history
 
 <details>
 
-<summary>Spring to Life - 4/11/2025</summary>
+<summary>1.21.8 - 8/4/2025</summary>
+
+* \[IMPORTANT] Server IP is now `smp.sheldonbois.dpdns.org`. I promise that I won't change it again, and this is just a general rename to anticipate more use of our domain with Compute Cluster apps
+* \[Update] Server is now on version 1.21.8
+* \[Reintroduction] All 'Beyond Vanilla' custom features are available again.
+* \[Reintroduction] Bedrock Edition client support. For now, this requires ownership of Java Edition. Let me know if you only have a Bedrock account.
+
+- \[Removal] As Mojang now introduced the official way to get fireflies particle, you will no longer see them in the swamp as introduced in the _Beyond Vanilla_ feature set. Mod's developer also stopped updating it.
+
+</details>
+
+<details>
+
+<summary>1.21.6 - 6/20/2025</summary>
+
+The happy ghast has arrived on the server. Luckily, the many mods are updated quickly, so I've decided to push the server up as well.
+
+* Update to 1.21.6
+* Certain custom structures are temporarily not available pending updates.
+
+</details>
+
+<details>
+
+<summary>Spring to Life (1.21.5) - 4/11/2025</summary>
 
 * Update to 1.21.5
 * Image2Map temporarily made unavailable
