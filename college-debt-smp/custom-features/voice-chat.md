@@ -1,6 +1,8 @@
 ---
 noIndex: true
 icon: microphone-lines
+cover: ../../.gitbook/assets/d29a64a23694cd2346aabb94bea25245b7198553.png
+coverY: 380.37735543500565
 ---
 
 # Proximity voice chat
@@ -18,8 +20,8 @@ There are many ways and tutorials available to install the mod, but I will provi
 
 These are the default keybinds for voice chat mod. You may change them in the control option.
 
-* `M` - Mute/unmute the microphone.&#x20;
-* `V` - Open the voice chat menu.
-* `G` - Open the group chat menu.
-* `H` - Hide/unhide the voice chat user interface element such as the microphone icon.
-* `N` - Disable/enable voice chat. Disabling will also deafen any voice chat from other players.
+* <kbd>M</kbd> - Mute/unmute the microphone.&#x20;
+* <kbd>V</kbd> - Open the voice chat menu.
+* <kbd>G</kbd> - Open the group chat menu.
+* <kbd>H</kbd> - Hide/unhide the voice chat user interface element such as the microphone icon.
+* <kbd>N</kbd> - Disable/enable voice chat. Disabling will also deafen any voice chat from other players.

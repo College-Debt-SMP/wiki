@@ -23,10 +23,10 @@ Below are some of the game rules set for the world. Other not listed use the def
 ## Chat Report
 
 {% hint style="info" %}
-To eliminate the chat report warning on server join for unmodded client, blocking of chat report are temporarily disabled. If you wish to have this on due to privacy reasons, contact the server owner.
+To eliminate the chat report warning on server join for unmodded client, blocking of chat report are temporarily disabled. If you wish to have this on due to privacy reasons, let me know.
 {% endhint %}
 
-~~Chat reporting to Mojang Studio has been disabled on the server. To get rid of the warning message that shows up on every join, install the~~ [~~No Chat Reports~~](https://modrinth.com/mod/no-chat-reports) ~~mod or use any modpack that has it included.~~
+~~Chat reporting has been disabled on the server. To get rid of the warning message that shows up on every join, install the~~ [~~No Chat Reports~~](https://modrinth.com/mod/no-chat-reports) ~~mod or use any modpack that has it included.~~
 
 ## Backup
 
