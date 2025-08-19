@@ -4,7 +4,24 @@ noIndex: true
 icon: circle-wifi-circle-wifi
 cover: >-
   https://cdn.sanity.io/images/w77i7m8x/production/fab2bfd901de3d58f7f62d35fe9a5107fedc43c1-1360x725.svg
-coverY: 155.00720246408622
+coverY: 91.0886052835548
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Server VPN

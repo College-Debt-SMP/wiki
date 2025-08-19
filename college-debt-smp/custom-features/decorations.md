@@ -1,6 +1,5 @@
 ---
-description: More things to decorate your build
-hidden: true
+description: More things to decorate your build with
 noIndex: true
 icon: cube
 ---
@@ -9,7 +8,7 @@ icon: cube
 
 ## More paintings
 
-We expanded the catalog of paintings in the game with Portfolio
+We expanded the catalog of paintings in the game with Portfolio.
 
 {% embed url="https://modrinth.com/datapack/portfolio" %}
 
