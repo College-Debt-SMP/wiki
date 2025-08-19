@@ -1,6 +1,9 @@
 ---
 noIndex: true
 icon: mountain
+cover: >-
+  https://cdn.modrinth.com/data/tpehi7ww/images/83cdac3acb02b628da4d8b8d6e0d514f66d53f61.png
+coverY: 84.62452592087789
 ---
 
 # World & structures

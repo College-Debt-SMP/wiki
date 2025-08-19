@@ -2,11 +2,14 @@
 description: Our self-managed Tailscale network
 noIndex: true
 icon: circle-wifi-circle-wifi
+cover: >-
+  https://cdn.sanity.io/images/w77i7m8x/production/fab2bfd901de3d58f7f62d35fe9a5107fedc43c1-1360x725.svg
+coverY: 155.00720246408622
 ---
 
 # Server VPN
 
-To access certain services on the server, you need to connect your device to the server's Tailscale network. This is done using the [Tailscale app](https://tailscale.com/download).
+To access certain services on the server, you need to connect your device to the server's VPN. This is done using the [Tailscale](https://tailscale.com/download) app.
 
 ## Connect
 

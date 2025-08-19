@@ -1,5 +1,7 @@
 ---
-description: The non-vanilla Minecraft, but still vanilla-like, features of the SMP
+description: >-
+  The non-vanilla Minecraft, but still vanilla-like, features of the College
+  Debt SMP
 noIndex: true
 icon: sparkles
 cover: >-

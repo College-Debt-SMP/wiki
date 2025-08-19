@@ -1,4 +1,5 @@
 ---
+description: When intervention is needed
 hidden: true
 noIndex: true
 icon: arrow-rotate-left
@@ -6,5 +7,21 @@ icon: arrow-rotate-left
 
 # Manual restart
 
-In an event where the server is unreachable for a lengthy amount of time, you can try to invoke a manual restart to the server.
+The server by itself should always be available for the majority of the time. However, you may need to reboot it manually in some rarer cases.
+
+{% hint style="info" %}
+Before proceeding further, make sure that your internet connection is stable and that the server is shown as offline from the Server Cluster dashboard or on the Discord server.
+{% endhint %}
+
+## Steps
+
+1. Go to the dashboard and launch Portainer
+2. Click <i class="fa-wifi">:wifi:</i> **Connect** on the only entry on the home page
+3. Navigate to Containers → cdsmp
+4. Click <i class="fa-arrows-rotate-reverse">:arrows-rotate-reverse:</i> **Restart**
+5. Give it a minute and check server status
+
+
+
+
 

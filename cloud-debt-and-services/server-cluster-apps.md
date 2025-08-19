@@ -2,8 +2,14 @@
 description: The goodies in our homelab
 noIndex: true
 icon: grid-dividers
+cover: >-
+  https://images.unsplash.com/photo-1605745341075-1b7460b99df8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxkb2NrZXJ8ZW58MHx8fHwxNzU1NTMzNjkxfDA&ixlib=rb-4.1.0&q=85
+coverY: 155.01205519361952
 layout:
   width: default
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
