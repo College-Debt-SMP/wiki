@@ -3,13 +3,14 @@ description: Our self-managed Tailscale network
 noIndex: true
 icon: circle-wifi-circle-wifi
 cover: >-
-  https://cdn.sanity.io/images/w77i7m8x/production/fab2bfd901de3d58f7f62d35fe9a5107fedc43c1-1360x725.svg
-coverY: 91.0886052835548
+  ../.gitbook/assets/Screenshot 2025-08-20 at 00-18-48 Tailscale · Best VPN
+  Service for Secure Networks.png
+coverY: 0
 layout:
   width: default
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
