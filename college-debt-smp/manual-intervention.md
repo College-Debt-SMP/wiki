@@ -1,13 +1,12 @@
 ---
-description: When intervention is needed
-hidden: true
+description: When the server is not awake for some reason
 noIndex: true
 icon: arrow-rotate-left
 ---
 
-# Manual restart
+# Manual intervention
 
-The server by itself should always be available for the majority of the time. However, you may need to reboot it manually in some rarer cases.
+The server by itself should always be available for the majority of the time. However, you may need to reboot it manually in rarer cases.
 
 {% hint style="info" %}
 Before proceeding further, make sure that your internet connection is stable and that the server is shown as offline from the Server Cluster dashboard or on the Discord server.

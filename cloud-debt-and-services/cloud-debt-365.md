@@ -20,3 +20,7 @@ If you forget your password, contact one of the admins, and they will give you a
 ## Additional Benefits
 
 Unless otherwise stated, your account comes with features equivalent to a [Microsoft 365 Business Standard](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-standard) subscription without the Copilot add-on. You may use them at your own will.
+
+### Microsoft Edge Default Settings
+
+When you sign into the Edge browser with your account, it should disable some of the settings deemed non-essential out of the box to provide a cleaner browsing experience with uBlock Origin bundled.

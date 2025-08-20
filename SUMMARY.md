@@ -17,17 +17,17 @@
   * [Maps](college-debt-smp/custom-features/maps.md)
   * [Virtual Reality](college-debt-smp/custom-features/virtual-reality.md)
 * [Server policy](college-debt-smp/publish-your-docs.md)
-* [Manual restart](college-debt-smp/manual-restart.md)
+* [Manual intervention](college-debt-smp/manual-intervention.md)
 
 ## Cloud Debt & Services
 
 * [Cloud Debt 365](cloud-debt-and-services/cloud-debt-365.md)
 * [Server Cluster apps](cloud-debt-and-services/server-cluster-apps.md)
 * [Server VPN](cloud-debt-and-services/server-vpn.md)
-* [Administration](cloud-debt-and-services/administration/README.md)
-  * [Admin toolbox](cloud-debt-and-services/administration/admin-toolbox.md)
 
 ## Other
 
+* [Administration](other/administration/README.md)
+  * [Admin toolbox](other/administration/admin-toolbox.md)
 * [Bulletin](other/bulletin/README.md)
   * [Compute Cluster project](other/bulletin/compute-cluster-project.md)
