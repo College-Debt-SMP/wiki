@@ -22,7 +22,7 @@
 ## Cloud Debt & Services
 
 * [Cloud Debt 365](cloud-debt-and-services/cloud-debt-365.md)
-* [Server Cluster apps](cloud-debt-and-services/server-cluster-apps.md)
+* [Web Services](cloud-debt-and-services/web-services.md)
 * [Server VPN](cloud-debt-and-services/server-vpn.md)
 
 ## Other
