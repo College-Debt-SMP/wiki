@@ -8,14 +8,21 @@ icon: clock
 
 <details>
 
+<summary>1.21.11 - </summary>
+
+
+
+</details>
+
+<details>
+
 <summary>1.21.8 - 8/4/2025</summary>
 
 * \[IMPORTANT] Server IP is now `smp.sheldonbois.dpdns.org`. I promise that I won't change it again, and this is just a general rename to anticipate more use of our domain with Compute Cluster apps
 * \[Update] Server is now on version 1.21.8
 * \[Reintroduction] All 'Beyond Vanilla' custom features are available again.
 * \[Reintroduction] Bedrock Edition client support. For now, this requires ownership of Java Edition. Let me know if you only have a Bedrock account.
-
-- \[Removal] As Mojang now introduced the official way to get fireflies particle, you will no longer see them in the swamp as introduced in the _Beyond Vanilla_ feature set. Mod's developer also stopped updating it.
+* \[Removal] As Mojang now introduced the official way to get fireflies particle, you will no longer see them in the swamp as introduced in the _Beyond Vanilla_ feature set. Mod's developer also stopped updating it.
 
 </details>
 

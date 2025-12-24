@@ -15,8 +15,8 @@ There are two available server IP to connect to:
 
 For most cases, using the public address is fine. Connecting through the VPN is more secured and require Tailscale installed on your machine.
 
-{% content-ref url="../cloud-debt-and-services/server-vpn.md" %}
-[server-vpn.md](../cloud-debt-and-services/server-vpn.md)
+{% content-ref url="../cloud-debt/tailscale-vpn.md" %}
+[tailscale-vpn.md](../cloud-debt/tailscale-vpn.md)
 {% endcontent-ref %}
 
 ### Play on Bedrock

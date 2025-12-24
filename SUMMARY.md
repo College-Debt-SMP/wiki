@@ -19,15 +19,14 @@
 * [Server policy](college-debt-smp/publish-your-docs.md)
 * [Manual intervention](college-debt-smp/manual-intervention.md)
 
-## Cloud Debt & Services
+## Cloud Debt
 
-* [Cloud Debt 365](cloud-debt-and-services/cloud-debt-365.md)
-* [Web Services](cloud-debt-and-services/web-services.md)
-* [Server VPN](cloud-debt-and-services/server-vpn.md)
+* [Cloud Debt 365](cloud-debt/cloud-debt-365.md)
+* [Web Services](cloud-debt/web-services.md)
+* [Tailscale VPN](cloud-debt/tailscale-vpn.md)
 
 ## Other
 
-* [Administration](other/administration/README.md)
-  * [Admin toolbox](other/administration/admin-toolbox.md)
+* [Administration](other/administration.md)
 * [Bulletin](other/bulletin/README.md)
   * [Compute Cluster project](other/bulletin/compute-cluster-project.md)

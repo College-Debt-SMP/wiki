@@ -1,5 +1,6 @@
 ---
 description: The goodies in our homelab
+hidden: true
 noIndex: true
 icon: grid-dividers
 cover: >-
@@ -24,7 +25,7 @@ layout:
     visible: true
 ---
 
-# Server Cluster apps
+# Web Services
 
 The Server Cluster runs the College Debt SMP as well as additional multiplayer servers and other self-hosted software. Available on the dashboard, these services are for members to use for their own benefit and are not meant for a production environment.
 

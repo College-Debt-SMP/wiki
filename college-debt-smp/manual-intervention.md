@@ -1,5 +1,6 @@
 ---
 description: When the server is not awake for some reason
+hidden: true
 noIndex: true
 icon: arrow-rotate-left
 ---
