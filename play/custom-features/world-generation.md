@@ -2,11 +2,11 @@
 noIndex: true
 icon: mountain
 cover: >-
-  https://cdn.modrinth.com/data/tpehi7ww/images/83cdac3acb02b628da4d8b8d6e0d514f66d53f61.png
-coverY: 84.62452592087789
+  https://cdn.modrinth.com/data/hl5OLM95/images/5cbbe481978c2e51f7a972619ed1fe455c33aede.png
+coverY: 0
 ---
 
-# World & structures
+# World generation
 
 The server's world is slightly different from vanilla Minecraft. You still get the same overall new world generation introduced in past updates, but it now has new stuffs. All of these additions aims to add more content to existing gameplay mechanics while keeping the vanilla-feel of the world.
 

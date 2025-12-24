@@ -8,9 +8,19 @@ icon: clock
 
 <details>
 
-<summary>1.21.11 - </summary>
+<summary>1.21.11 - 12/15/2025</summary>
 
+Updated to Mounts of Mayhem
 
+</details>
+
+<details>
+
+<summary>1.21.10 - 10/19/2025</summary>
+
+At last, the server has been updated to include the Copper Age update. In addition, Beyond Vanilla content also got a pretty big update that may or may not messed up more stuff with the vaults.
+
+Note: Image2Map has been deprecated in favor of a more stable solution. I'll reveal it when I have the time
 
 </details>
 

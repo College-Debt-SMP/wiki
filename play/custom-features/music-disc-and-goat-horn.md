@@ -1,6 +1,8 @@
 ---
 noIndex: true
 icon: compact-disc
+cover: ../../.gitbook/assets/2024-03-13_19.04.24.png
+coverY: 0
 ---
 
 # Music Disc & Goat Horn

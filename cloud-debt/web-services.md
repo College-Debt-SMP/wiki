@@ -1,6 +1,5 @@
 ---
 description: The goodies in our homelab
-hidden: true
 noIndex: true
 icon: grid-dividers
 cover: >-

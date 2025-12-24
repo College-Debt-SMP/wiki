@@ -2,31 +2,31 @@
 
 * [Home](README.md)
 
-## College Debt SMP
+## Play
 
-* [Quick start](college-debt-smp/play.md)
-* [Update history](college-debt-smp/update-history.md)
-* [Custom features](college-debt-smp/custom-features/README.md)
-  * [Proximity voice chat](college-debt-smp/custom-features/voice-chat.md)
-  * [Music Disc & Goat Horn](college-debt-smp/custom-features/music-disc-and-goat-horn.md)
-  * [Armor Stand](college-debt-smp/custom-features/armor-stand.md)
-  * [World & structures](college-debt-smp/custom-features/world-generation.md)
-  * [Decorations](college-debt-smp/custom-features/decorations.md)
-  * [Command utilities](college-debt-smp/custom-features/command-utilities.md)
-  * [Custom item models](college-debt-smp/custom-features/custom-models.md)
-  * [Maps](college-debt-smp/custom-features/maps.md)
-  * [Virtual Reality](college-debt-smp/custom-features/virtual-reality.md)
-* [Server policy](college-debt-smp/publish-your-docs.md)
-* [Manual intervention](college-debt-smp/manual-intervention.md)
+* [Quick start](play/play.md)
+* [Update history](play/update-history.md)
+* [Custom features](play/custom-features/README.md)
+  * [Proximity voice chat](play/custom-features/voice-chat.md)
+  * [Music Disc & Goat Horn](play/custom-features/music-disc-and-goat-horn.md)
+  * [Armor Stand](play/custom-features/armor-stand.md)
+  * [World generation](play/custom-features/world-generation.md)
+  * [Decorations](play/custom-features/decorations.md)
+  * [Command utilities](play/custom-features/command-utilities.md)
+  * [Custom item models](play/custom-features/custom-models.md)
+  * [Maps](play/custom-features/maps.md)
+  * [Virtual Reality](play/custom-features/virtual-reality.md)
+* [Server policy](play/publish-your-docs.md)
+* [Manual intervention](play/manual-intervention.md)
 
 ## Cloud Debt
 
-* [Cloud Debt 365](cloud-debt/cloud-debt-365.md)
 * [Web Services](cloud-debt/web-services.md)
-* [Tailscale VPN](cloud-debt/tailscale-vpn.md)
+* [Cloud Debt 365](cloud-debt/cloud-debt-365.md)
 
 ## Other
 
 * [Administration](other/administration.md)
+* [Tailscale VPN](other/tailscale-vpn.md)
 * [Bulletin](other/bulletin/README.md)
   * [Compute Cluster project](other/bulletin/compute-cluster-project.md)
