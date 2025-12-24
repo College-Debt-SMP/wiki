@@ -24,7 +24,7 @@
 * [Web Services](cloud-debt/web-services.md)
 * [Cloud Debt 365](cloud-debt/cloud-debt-365.md)
 
-## Other
+## Technical Stuff <a href="#other" id="other"></a>
 
 * [Administration](other/administration.md)
 * [Tailscale VPN](other/tailscale-vpn.md)

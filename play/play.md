@@ -11,9 +11,11 @@ icon: rocket-launch
 There are two available server IP to connect to:
 
 * Through the public address: `smp.sheldonbois.dpdns.org`
-* Through the server VPN: `smp.sheldonbois.ts`
+* Through the server's Tailscale VPN: `smp.sheldonbois.ts`
 
-For most cases, using the public address is fine. Connecting through the VPN is more secured and require Tailscale installed on your machine.
+Look at the update history to know which version of Minecraft to use.
+
+For most scenario, use the public address. Connecting through the VPN is more secured and require Tailscale installed on your machine.
 
 {% content-ref url="../other/tailscale-vpn.md" %}
 [tailscale-vpn.md](../other/tailscale-vpn.md)

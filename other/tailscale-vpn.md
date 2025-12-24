@@ -25,9 +25,9 @@ layout:
     visible: true
 ---
 
-# Server VPN
+# Tailscale VPN
 
-To access certain services on the server, you need to connect your device to the server's VPN. This is done using the [Tailscale](https://tailscale.com/download) app.
+To access certain services on the server, you need to connect your device to the server's VPN. This is done using the [Tailscale](https://tailscale.com/download) app. We ran our own instance of the control plane, so you'll need to do some configuration first.
 
 ## Connect
 
