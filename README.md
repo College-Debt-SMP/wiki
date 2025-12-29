@@ -23,7 +23,7 @@ layout:
 
 # Home
 
-Welcome to the College Debt SMP! This wiki will serve as an information hub for playing on the server. Use the [Minecraft Wiki](https://minecraft.wiki) if you need to learn more about new game update.
+Welcome to the College Debt SMP! This wiki will serve as an information hub for playing on the server. Use the [Minecraft Wiki](https://minecraft.wiki) if you need to learn more about the game.
 
 ## Common topic
 
