@@ -21,27 +21,21 @@ For most scenario, use the public address. Connecting through the VPN is more se
 [tailscale-vpn.md](../other/tailscale-vpn.md)
 {% endcontent-ref %}
 
-### Play on Bedrock
-
-The server supports connecting from a Minecraft Bedrock Edition client in addition to Java Edition client. You will use the same player data as your Java Edition account.
-
-Console players are required to have an active online subscription from their respective console. Since custom servers are not directly supported on these systems, you need to follow this [guide](https://geysermc.org/wiki/geyser/using-geyser-with-consoles/).
-
-By default, you must authenticate with your Java Edition Microsoft account (not your Cloud Debt 365 account) on each join. To have this information saved, provide the server admin your Xbox gamertag/Bedrock username.
-
 ## Performance Improvement
 
-Minecraft Java Edition is not very optimized out of the box. Unless you have a high-end system, there are additional performance gain we can have for a smoother experience. To achieve this, you need to install a modpack to your game.
+Minecraft Java Edition is not very optimized out of the box. Even with a high-end system, there are additional performance gain we can have. The easiest way to achieve this is to use a modpack.
 
-For the majority of system, the Fabulously Optimized modpack will do the trick. Installation are different depending on the launcher you use:
+### Fabulously Optimized
+
+For the majority of system, the Fabulously Optimized modpack will do the trick.&#x20;
 
 * For the vanilla Minecraft Launcher, follow the installation instruction [here](https://wiki.download.fo/install-instructions#minecraft-launcher-vanilla)
 * \[Recommended] [Prism Launcher](https://prismlauncher.org/) user can directly download the modpack as an instance. Detailed instruction is [here](https://wiki.download.fo/install-instructions#prism-launcher)
 * For other third-party launchers, instructions are available within the [same page](https://wiki.download.fo/install-instructions)&#x20;
 
-Optifine has been a go to option in the earlier year of Minecraft. In this point in time, its effectiveness has been surpassed by the Fabulously Optimized modpack.
+[Optifine](https://optifine.net/home) has been a go to option in earlier versions of Minecraft. Its effectiveness has been surpassed by Fabulously Optimized.
 
-### Apple Silicon Mac
+### VulkanMod on Apple Silicon Mac/Macbook
 
 Due to the nature of macOS and Apple M-series chips, using the [VulkanMod](https://modrinth.com/mod/vulkanmod) will give you the best performance improvement.
 
@@ -51,7 +45,7 @@ In any case where the mod is not updated to the latest version of Minecraft, use
 
 ## Simple Voice Chat
 
-The server supports Proximity Voice Chat via the [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) mod.
+The server supports Proximity Voice Chat via the [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) mod. This gives you the best in-game chat experience.
 
 Prism Launcher user can directly download the mod onto an existing modded or Fabulously Optimize instance.
 
@@ -60,6 +54,14 @@ For more information on this mod...
 {% content-ref url="custom-features/voice-chat.md" %}
 [voice-chat.md](custom-features/voice-chat.md)
 {% endcontent-ref %}
+
+### Play from Bedrock
+
+Minecraft on consoles and mobile devices uses the Bedrock version of the game. The server supports connecting from these clients in addition to Java Edition clients. You will use the same player data as your Java Edition account.
+
+Console players are required to have an active online subscription from their platform (Nintendo Switch Online/Playstation Plus/Xbox Game Pass). Since custom servers are not directly supported on these system, you need to follow this [guide](https://geysermc.org/wiki/geyser/using-geyser-with-consoles/).
+
+By default, you must authenticate with your Java Edition Microsoft account on each join. To have this information saved, provide the server admin your Bedrock username.
 
 ## Additional server information
 
@@ -70,8 +72,6 @@ For more information on this mod...
 {% content-ref url="custom-features/" %}
 [custom-features](custom-features/)
 {% endcontent-ref %}
-
-## Play in Virtual Reality
 
 
 

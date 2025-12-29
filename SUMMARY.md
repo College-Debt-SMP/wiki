@@ -16,7 +16,7 @@
   * [Command utilities](play/custom-features/command-utilities.md)
   * [Custom item models](play/custom-features/custom-models.md)
   * [Maps](play/custom-features/maps.md)
-  * [Virtual Reality](play/custom-features/virtual-reality.md)
+  * [Virtual reality](play/custom-features/virtual-reality.md)
 * [Server policy](play/publish-your-docs.md)
 * [Manual intervention](play/manual-intervention.md)
 
