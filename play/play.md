@@ -14,8 +14,8 @@ Look at the update history to know which version of Minecraft to use.
 
 For most scenario, use the public address. Connecting through the VPN is more secured, but require Tailscale to be installed on your machine.
 
-{% content-ref url="../other/tailscale-vpn.md" %}
-[tailscale-vpn.md](../other/tailscale-vpn.md)
+{% content-ref url="../other/cloud-debt-tailscale.md" %}
+[cloud-debt-tailscale.md](../other/cloud-debt-tailscale.md)
 {% endcontent-ref %}
 
 ## Performance Improvement

@@ -28,6 +28,6 @@
 ## Technical Stuff <a href="#other" id="other"></a>
 
 * [Administration](other/administration.md)
-* [Tailscale VPN](other/tailscale-vpn.md)
+* [Cloud Debt Tailscale](other/cloud-debt-tailscale.md)
 * [Bulletin](other/bulletin/README.md)
   * [Compute Cluster project](other/bulletin/compute-cluster-project.md)

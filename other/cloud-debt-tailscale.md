@@ -1,5 +1,5 @@
 ---
-description: Our self-managed Tailscale network
+description: Our self-managed VPN
 noIndex: true
 icon: circle-wifi-circle-wifi
 cover: >-
@@ -25,9 +25,9 @@ layout:
     visible: true
 ---
 
-# Tailscale VPN
+# Cloud Debt Tailscale
 
-To access certain services on the server, you need to connect your device to the server's VPN. This is done using the [Tailscale](https://tailscale.com/download) app. We ran our own instance of the control plane, so you'll need to do some configuration first.
+To assist with accessing the server in scenarios where using the public IP is undesirable, you can use Tailscale.
 
 ## Connect
 
