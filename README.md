@@ -3,12 +3,12 @@ icon: sign-post
 cover: .gitbook/assets/Banner.png
 coverY: 6
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
     size: full
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:

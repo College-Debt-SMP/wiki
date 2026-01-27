@@ -8,10 +8,7 @@ icon: rocket-launch
 
 ## Joining the server
 
-There are two available server IP to connect to:
-
-* Through the public address: `smp.sheldonbois.dpdns.org`
-* Through the server's Tailscale VPN: `smp.sheldonbois.ts`
+Through the public address: `smp.sheldonbois.dpdns.org`
 
 Look at the update history to know which version of Minecraft to use.
 
