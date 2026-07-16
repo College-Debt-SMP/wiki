@@ -8,7 +8,36 @@ icon: clock
 
 <details>
 
-<summary>1.21.11 - 12/15/2025</summary>
+<summary>26.2 – 7/7/2026</summary>
+
+After some hiatus due to server-sided issues, the server is now on Minecraft 26.2. Everything is still intact.
+
+### Temporarily disabled
+
+* Bedrock support
+
+### Performance note
+
+This version of the game added Vulkan support. If you play on an Apple Silicon Mac or any PC with a modern GPU, set preferred graphics to Vulkan within the game's video options for those extra performance boost
+
+</details>
+
+<details>
+
+<summary>26.1.2 – 5/5/2026</summary>
+
+The server is now updated to Minecraft 26.1.2, aka the Tiny Takeover Update. You can now play around with the new baby mobs while being in debt. monkas
+
+### Additional changes:
+
+* The mineshaft now used the design from the Dungeons and Taverns mod. It doesn't look as gigantic, but are more in line with vanilla parity.
+* Some custom structures are disabled (for now).
+
+</details>
+
+<details>
+
+<summary>1.21.11 – 12/15/2025</summary>
 
 Updated to Mounts of Mayhem
 
@@ -16,7 +45,7 @@ Updated to Mounts of Mayhem
 
 <details>
 
-<summary>1.21.10 - 10/19/2025</summary>
+<summary>1.21.10 – 10/19/2025</summary>
 
 At last, the server has been updated to include the Copper Age update. In addition, Beyond Vanilla content also got a pretty big update that may or may not messed up more stuff with the vaults.
 
@@ -26,7 +55,7 @@ Note: Image2Map has been deprecated in favor of a more stable solution. I'll rev
 
 <details>
 
-<summary>1.21.8 - 8/4/2025</summary>
+<summary>1.21.8 – 8/4/2025</summary>
 
 * \[IMPORTANT] Server IP is now `smp.sheldonbois.dpdns.org`. I promise that I won't change it again, and this is just a general rename to anticipate more use of our domain with Compute Cluster apps
 * \[Update] Server is now on version 1.21.8
@@ -38,7 +67,7 @@ Note: Image2Map has been deprecated in favor of a more stable solution. I'll rev
 
 <details>
 
-<summary>1.21.6 - 6/20/2025</summary>
+<summary>1.21.6 – 6/20/2025</summary>
 
 The happy ghast has arrived on the server. Luckily, the many mods are updated quickly, so I've decided to push the server up as well.
 
@@ -49,7 +78,7 @@ The happy ghast has arrived on the server. Luckily, the many mods are updated qu
 
 <details>
 
-<summary>Spring to Life (1.21.5) - 4/11/2025</summary>
+<summary>Spring to Life (1.21.5) – 4/11/2025</summary>
 
 * Update to 1.21.5
 * Image2Map temporarily made unavailable
@@ -59,7 +88,7 @@ The happy ghast has arrived on the server. Luckily, the many mods are updated qu
 
 <details>
 
-<summary>The Garden Awakens - 12/21/2024</summary>
+<summary>The Garden Awakens – 12/21/2024</summary>
 
 * Update to 1.21.4
 * Bundles are now part of the core game
@@ -68,7 +97,7 @@ The happy ghast has arrived on the server. Luckily, the many mods are updated qu
 
 <details>
 
-<summary>Beyond Vanilla - 8/6/2024</summary>
+<summary>Beyond Vanilla – 8/6/2024</summary>
 
 Presenting the most unusual addition to the server up to date.
 
@@ -107,7 +136,7 @@ The main theme surrounding this “update” is to introduce more variety into t
 
 <details>
 
-<summary>Armored Paws - 5/31/2024</summary>
+<summary>Armored Paws – 5/31/2024</summary>
 
 The server is now on version 1.20.6; please update to this version before joining.
 
@@ -128,7 +157,7 @@ Full change-log:
 
 <details>
 
-<summary>April server update - 4/5/2024</summary>
+<summary>April server update – 4/5/2024</summary>
 
 #### Highlight
 
@@ -151,7 +180,7 @@ Full change-log:
 
 <details>
 
-<summary>Poisonous Potato Update - 4/1/2024</summary>
+<summary>Poisonous Potato Update – 4/1/2024</summary>
 
 Server is now “updated” to version 24w14potato
 
@@ -163,7 +192,7 @@ The following features are either temporarily not available or may not work prop
 
 <details>
 
-<summary>VR support - 3/17/2024</summary>
+<summary>VR support – 3/17/2024</summary>
 
 Using the [Vivecraft](https://modrinth.com/mod/vivecraft) mod and any SteamVR supported virtual reality headset, it is now possible to play on the server with proper support for room-scale interaction and movement in virtual reality. Animations of VR players can be seen in-game by any players even if they’re not in VR nor have the Vivecraft mod installed.
 
@@ -175,7 +204,7 @@ Full changelog:
 
 <details>
 
-<summary>A plentiful update - 3/13/2024</summary>
+<summary>A plentiful update – 3/13/2024</summary>
 
 You can now do more things in Minecraft (at least on this server). This is not a Minecraft version update.
 
@@ -193,7 +222,7 @@ Changelog:
 
 <details>
 
-<summary>1.20.4 - 12/11/2023</summary>
+<summary>1.20.4 – 12/11/2023</summary>
 
 Server is now running on Minecraft release version 1.20.4
 
@@ -201,7 +230,7 @@ Server is now running on Minecraft release version 1.20.4
 
 <details>
 
-<summary>Initial server creation - 3/17/2023</summary>
+<summary>Initial server creation – 3/17/2023</summary>
 
 
 
