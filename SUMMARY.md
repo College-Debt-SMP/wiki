@@ -7,7 +7,10 @@
 
 * [Need help](about/need-help.md)
 * [College Debt lore](about/college-debt-lore.md)
-* [News](about/news.md)
+* [Cloud Debt account](about/cloud-debt-account/README.md)
+  * [Microsoft 365 built-in](about/cloud-debt-account/microsoft-365-built-in.md)
+* [Server system](about/server-system/README.md)
+  * [Add your machine to Cloud Debt](about/server-system/add-your-machine-to-cloud-debt.md)
 
 ## College Debt SMP
 
@@ -29,10 +32,6 @@
 
 ## IT system
 
-* [Cloud Debt account](it-system/cloud-debt-account/README.md)
-  * [Microsoft 365 built-in](it-system/cloud-debt-account/microsoft-365-built-in.md)
-* [Server system](it-system/server-system/README.md)
-  * [Add your machine to Cloud Debt](it-system/server-system/add-your-machine-to-cloud-debt.md)
 * [Tailscale](it-system/tailscale.md)
 * [Compute Cluster project](it-system/compute-cluster-project.md)
 
@@ -40,4 +39,6 @@
 
 ***
 
+* [News](news.md)
 * [Free stuff](free-stuff.md)
+* [Lumity](lumity.md)
