@@ -1,9 +1,10 @@
 ---
+description: How the server is configured
 noIndex: true
 icon: sliders-up
 ---
 
-# Server policy
+# Server meta
 
 ## Base game rules
 
@@ -43,7 +44,7 @@ On some occasions, we will perform manual pruning to remove unused or seldom use
 
 ## Minecraft feature drop
 
-Due to the server reliance on community-made mods and datapacks for custom features, it can take up to a month for the server to update to a major game version. Timeline will vary based on the progression on the individual developers. In some cases, we could update the server early without all of the custom content available at first depending on the impact.
+Due to the server reliance on mods, it can take up to a month for the server to update to a major game version. Timeline will vary based on the progression on the individual developers. In some cases, we could update the server early without all of the custom content available at first depending on the impact.
 
 ## Etiquettes
 

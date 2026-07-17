@@ -2,48 +2,38 @@
 description: Welcome to the College Debt SMP
 noIndex: true
 icon: rocket-launch
+cover: ../../.gitbook/assets/Banner.png
+coverY: 0
 ---
 
 # Play
 
 ### Joining the server
 
-Through the public address: `smp.sheldonbois.dpdns.org`
+The server supports both Java (as the primary version) as well as Bedrock client. Refer to the server's [update history](../update-history.md) for which version of Minecraft to play on. Bedrock support may not be readily available especially after a major Minecraft version came out, so I encouraged you to play on Java whenever you can.
 
-Look at the update history to know which version of Minecraft to use.
+{% tabs %}
+{% tab title="Java" %}
+On the Multiplayer menu, join using this address: `smp.sheldonbois.dpdns.org`&#x20;
+{% endtab %}
 
-For most scenario, use the public address. Connecting through the VPN is more secured, but require Tailscale to be installed on your machine.
+{% tab title="Bedrock (Windows)" %}
+On the Servers tab, add a custom server using this address: `smp.sheldonbois.dpdns.org`
+{% endtab %}
 
-{% content-ref url="../../cloud-debt/tailscale.md" %}
-[tailscale.md](../../cloud-debt/tailscale.md)
-{% endcontent-ref %}
+{% tab title="Bedrock (Console)" %}
+The option to add custom third-party server are not available by default on the Servers tab. You will need to [configure your console's DNS](https://geysermc.org/wiki/geyser/using-geyser-with-consoles/#playstation-4) to connect to the BedrockConnect proxy first. The mentioned instruction explicitly mentioned older generation consoles, but also do apply to their newer counterparts too.
 
-### Simple Voice Chat
+You will also need to have an active online subscription from your respective platform (Nintendo Switch Online, PlayStation Plus, Xbox Game Pass). It's funny that you have to pay to access something that I self-hosted for free, but that's how things are lmao.
 
-The server supports Proximity Voice Chat via the [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) mod. This gives you the best in-game chat experience.
+Once you got on the "proxy server", you will be presented with a custom server menu in which you can then add in `smp.sheldonbois.dpdns.org`.
+{% endtab %}
+{% endtabs %}
 
-Prism Launcher user can directly download the mod onto an existing modded or Fabulously Optimize instance.
+For Bedrock, you must authenticate with your Java Edition account on each join. To have this information saved, provide the server admin your Bedrock username.
 
-For more information on this mod...
+### Additional information
 
-{% content-ref url="../features/voice-chat.md" %}
-[voice-chat.md](../features/voice-chat.md)
-{% endcontent-ref %}
-
-### Play from Bedrock
-
-Minecraft on consoles and mobile devices uses the Bedrock version of the game. The server supports connecting from these clients in addition to Java Edition clients. You will use the same player data as your Java Edition account.
-
-Console players are required to have an active online subscription from their platform (Nintendo Switch Online/Playstation Plus/Xbox Game Pass). Since custom servers are not directly supported on these system, you need to follow this [guide](https://geysermc.org/wiki/geyser/using-geyser-with-consoles/).
-
-By default, you must authenticate with your Java Edition Microsoft account on each join. To have this information saved, provide the server admin your Bedrock username.
-
-### Additional server information
-
-{% content-ref url="../publish-your-docs.md" %}
-[publish-your-docs.md](../publish-your-docs.md)
-{% endcontent-ref %}
-
-{% content-ref url="../features/" %}
-[features](../features/)
+{% content-ref url="performance-improvement.md" %}
+[performance-improvement.md](performance-improvement.md)
 {% endcontent-ref %}

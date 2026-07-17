@@ -1,5 +1,6 @@
 ---
 description: Introducing the college student equivalent to a super computer
+hidden: true
 noIndex: true
 icon: circle-nodes
 cover: >-
@@ -7,7 +8,7 @@ cover: >-
 coverY: 46
 ---
 
-# Introduction
+# Compute Cluster project
 
 The "Compute Cluster" is a planned major upgrade to our private server system to provide more power for cloud computing and self-hosted services. The main purpose is to be able to run more cool things without bogging down the College Debt SMP as much as possible, in which there is a way to do it for free! (of course it should be, or else I won't even dare to glaze this proposal)
 

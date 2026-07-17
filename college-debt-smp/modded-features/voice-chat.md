@@ -1,4 +1,5 @@
 ---
+description: Immersive voice chat without Discord
 noIndex: true
 icon: microphone-lines
 cover: ../../.gitbook/assets/d29a64a23694cd2346aabb94bea25245b7198553.png
@@ -7,7 +8,11 @@ coverY: 380.37735543500565
 
 # Proximity voice chat
 
-The Simple Voice Chat mod allows players to do voice communication within in-game distances without using an external software such as Discord. This add more immersion to the multiplayer experience, but requires installation from each players who wished to use this feature.
+{% hint style="info" %}
+Java only
+{% endhint %}
+
+The [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) mod allows players to do voice communication within in-game distances without using an external software such as Discord. This add more immersion to the multiplayer experience, but requires installation from each players who wished to use this feature.
 
 ## Installation
 

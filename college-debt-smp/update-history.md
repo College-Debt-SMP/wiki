@@ -1,5 +1,5 @@
 ---
-description: History of server updates
+description: 'Current version: Java 26.2 & Bedrock 26.0–26.33'
 noIndex: true
 icon: clock
 ---

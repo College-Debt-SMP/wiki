@@ -16,7 +16,7 @@ Get yourself a Book and Quill and then sign it with the title "Statue". Whether 
 The book contains around 10 pages worth of option that would otherwise be very cumbersome to explain here with only a bit of brain cells. To keep it simple, you can use the video below. The ordering of options might look a bit different, but functionality is about the same.
 
 {% embed url="https://www.youtube.com/watch?v=nV9-_RacnoI" %}
-Credit: ZombieCleo from Hermitcraft SMP
+Credit: ZombieCleo from Hermitcraft
 {% endembed %}
 
 One other thing you can use this book for is to customize item frames. You can toggle its invisibility (can also be crafted) and invincibility.

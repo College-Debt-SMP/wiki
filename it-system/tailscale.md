@@ -1,5 +1,6 @@
 ---
 description: Our self-managed VPN
+hidden: true
 noIndex: true
 icon: circle-wifi-circle-wifi
 cover: >-
@@ -11,6 +12,7 @@ layout:
   cover:
     visible: true
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -23,9 +25,13 @@ layout:
     visible: true
   metadata:
     visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
-# Cloud Debt Tailscale
+# Tailscale
 
 To assist with accessing the server in scenarios where using the public IP is undesirable, you can use Tailscale.
 
