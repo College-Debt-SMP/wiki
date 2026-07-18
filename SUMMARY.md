@@ -5,7 +5,7 @@
 
 ## About
 
-* [Need help](about/need-help.md)
+* [Get help](about/get-help.md)
 * [College Debt lore](about/college-debt-lore.md)
 * [Cloud Debt account](about/cloud-debt-account/README.md)
   * [Microsoft 365 built-in](about/cloud-debt-account/microsoft-365-built-in.md)
