@@ -1,5 +1,6 @@
 ---
 description: Zeroaf's cat
+noIndex: true
 icon: cat
 ---
 

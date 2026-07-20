@@ -26,7 +26,7 @@ If we ever need to expand our computing power and have it scaled across all avai
 We currently have no need for more computing power, but you're free to add your machine if you wish to contribute.
 {% endhint %}
 
-{% content-ref url="add-your-machine-to-cloud-debt.md" %}
-[add-your-machine-to-cloud-debt.md](add-your-machine-to-cloud-debt.md)
+{% content-ref url="add-your-machine.md" %}
+[add-your-machine.md](add-your-machine.md)
 {% endcontent-ref %}
 

@@ -1,16 +1,6 @@
 # Table of contents
 
 * [Home](README.md)
-* [Services](services.md)
-
-## About
-
-* [Get help](about/get-help.md)
-* [College Debt lore](about/college-debt-lore.md)
-* [Cloud Debt account](about/cloud-debt-account/README.md)
-  * [Microsoft 365 built-in](about/cloud-debt-account/microsoft-365-built-in.md)
-* [Server system](about/server-system/README.md)
-  * [Add your machine to Cloud Debt](about/server-system/add-your-machine-to-cloud-debt.md)
 
 ## College Debt SMP
 
@@ -30,15 +20,21 @@
   * [Maps](college-debt-smp/modded-features/maps.md)
 * [Server meta](college-debt-smp/publish-your-docs.md)
 
-## IT system
+## About
 
-* [Tailscale](it-system/tailscale.md)
-* [Compute Cluster project](it-system/compute-cluster-project.md)
+* [Get help](about/get-help.md)
+* [College Debt lore](about/college-debt-lore.md)
+* [Cloud Debt account](about/cloud-debt-account/README.md)
+  * [Microsoft 365 built-in](about/cloud-debt-account/microsoft-365-built-in.md)
+  * [Services](about/cloud-debt-account/services.md)
+* [Server system](about/server-system/README.md)
+  * [Add your machine](about/server-system/add-your-machine.md)
 
 ## Extra
 
 ***
 
-* [News](news.md)
 * [Free stuff](free-stuff.md)
 * [Lumity](lumity.md)
+* [Tailscale](tailscale.md)
+* [Compute Cluster project](compute-cluster-project.md)

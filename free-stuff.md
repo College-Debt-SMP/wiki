@@ -33,7 +33,6 @@ Sometimes, banking/financial companies would do a promotion to entice you to do 
 Your state government do have programs like food stamp, unemployment benefit, and health insurance that you can apply for if you qualify.
 
 * [California](https://benefitscal.com/)
-* [Texas](https://yourtexasbenefits.com/)
 * [Washington](https://www.dshs.wa.gov/)
 
 {% hint style="info" icon="basket-shopping-plus" %}

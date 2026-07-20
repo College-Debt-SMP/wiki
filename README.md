@@ -1,7 +1,13 @@
 ---
 icon: sign-post
+cover: .gitbook/assets/PXL_20251006_230629858.jpg
+coverY: 205.4416961130742
 layout:
   width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
   title:
     visible: true
   description:
@@ -22,6 +28,8 @@ layout:
 
 # Home
 
-Welcome to College Debt. This documentation site has everything you need to know about College Debt.
+Welcome to the documentation site for College Debt. Everything you need to know about the server can be found here. Unless otherwise stated, the only official communication we have is our Discord server.
 
-Note: Unless otherwise stated, the only official communication we have is our Discord server.
+### Content completeness disclaimer
+
+You may need to rely on external sources for the specifics in regards to certain topic found on this doc site, as it won't contain every detail. I aimed to make everything as concise as possible, since we usually are not in the mindset of reading long stuff in this environment.

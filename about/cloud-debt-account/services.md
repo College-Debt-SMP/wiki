@@ -1,5 +1,5 @@
 ---
-description: The goodies in our homelab
+description: Homelab stuff (not for noobs)
 noIndex: true
 icon: grid-2-plus
 cover: >-
@@ -30,7 +30,5 @@ layout:
 ---
 
 # Services
-
-### Not for casuals
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Portainer</strong></td><td>Container management interface</td><td><a href="https://cmi.cherri.qzz.io/">https://cmi.cherri.qzz.io/</a></td></tr><tr><td><strong>Beszel</strong></td><td>Performance monitoring</td><td><a href="https://beszel.cherri.qzz.io/">https://beszel.cherri.qzz.io/</a></td></tr></tbody></table>

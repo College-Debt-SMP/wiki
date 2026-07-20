@@ -14,9 +14,9 @@ If you do not have any intention to use any other provided services beyond the C
 
 ### Account security
 
-For all accounts, we highly recommended that you enable two-factor authentication using a TOTP authenticator app or via a physical FIDO-2 compliant security key. If possible, also have a password manager generate the account password for you.
-
 If you forget your password, contact [one of the admins](../get-help.md), and they will give you a temporary password to reset.
+
+For best security practice, we highly recommended that you enable two-factor authentication using a TOTP authenticator app or via a physical FIDO-2 compliant security key. If possible, also have a password manager generate the account password for you.
 
 ### Privacy policy
 
