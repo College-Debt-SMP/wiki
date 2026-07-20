@@ -14,7 +14,8 @@ If you are experiencing any issues or questions, you may ask the people below:
 
 ### In time of distress
 
-If you feel like you cannot hold yourself together, please reach out to anyone you're close with including those within this group. In addition, there are various state resources you can use to get personalized help from.
+If you feel like you cannot hold yourself together, please reach out to anyone you're close with including those within this group. There are also various available public resources you can use to get specific help from.
 
 * [California](https://www.cdph.ca.gov/Programs/CCDPHP/DCDIC/SACB/Pages/Crisis-Hotlines--Resources.aspx)
+* [Washington](https://www.hca.wa.gov/free-or-low-cost-health-care/i-need-behavioral-health-support/mental-health-crisis-lines)
 
