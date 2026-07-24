@@ -1,7 +1,7 @@
 ---
 description: The meat behind College Debt
 noIndex: true
-icon: nas
+icon: server
 ---
 
 # Server system

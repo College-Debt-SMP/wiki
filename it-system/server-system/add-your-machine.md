@@ -1,5 +1,5 @@
 ---
-description: Power via collaboration
+description: Power in number
 icon: square-dashed-circle-plus
 ---
 
