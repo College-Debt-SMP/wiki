@@ -1,9 +1,11 @@
 ---
 description: Typing can help you along the way
-hidden: true
 noIndex: true
 icon: toolbox
 ---
 
 # Command utilities
+
+* `/trigger sit` – Sit down on any block or surface
+* /trigger
 

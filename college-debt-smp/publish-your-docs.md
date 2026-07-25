@@ -18,16 +18,12 @@ Below are some of the game rules set for the world. Other not listed use the def
 * Mob griefing: Yes
 * PVP: Yes
 * Seed: -574041854756187697
-* Item despawn: Any items dropped upon a player's death are not subjected to the 5 minutes despawn timer. They will remain on the ground until being picked up or being destroyed . This does not apply to item drop by other means.
+* Item despawn: Any items dropped upon a player's death are not subjected to the 5 minutes despawn timer. They will remain on the ground until being picked up or being destroyed. This does not apply to items dropped by other means.
 * Whitelist: Yes. Only whitelisted players can join and play on the server. If you're invited and have not played before, contact the server admin with your username.
 
 ## Chat Report
 
-{% hint style="info" %}
-To eliminate the chat report warning on server join for unmodded client, blocking of chat report are temporarily disabled. If you wish to have this on due to privacy reasons, let me know.
-{% endhint %}
-
-~~Chat reporting has been disabled on the server. To get rid of the warning message that shows up on every join, install the~~ [~~No Chat Reports~~](https://modrinth.com/mod/no-chat-reports) ~~mod or use any modpack that has it included.~~
+Chat reporting has been disabled on the server. To get rid of the warning message that shows up on every join, install the [No Chat Reports](https://modrinth.com/mod/no-chat-reports) mod or use any modpack that has it included.
 
 ## Backup
 
@@ -45,10 +41,3 @@ On some occasions, we will perform manual pruning to remove unused or seldom use
 ## Minecraft feature drop
 
 Due to the server reliance on mods, it can take up to a month for the server to update to a major game version. Timeline will vary based on the progression on the individual developers. In some cases, we could update the server early without all of the custom content available at first depending on the impact.
-
-## Etiquettes
-
-We don’t strictly enforced any rules on the server, but in general, don’t be a butthole. This includes:
-
-* Griefing without permission
-* Insult each other,

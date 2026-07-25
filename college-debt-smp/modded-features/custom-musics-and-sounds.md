@@ -5,9 +5,9 @@ cover: ../../.gitbook/assets/2024-03-13_19.04.24.png
 coverY: 0
 ---
 
-# Music Disc & Goat Horn
+# Custom Musics & Sounds
 
-{% hint style="info" %}
+{% hint style="info" icon="microphone" %}
 This feature requires the use of the Simple Voice Chat mod
 {% endhint %}
 

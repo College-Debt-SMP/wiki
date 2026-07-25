@@ -8,7 +8,7 @@ coverY: 380.37735543500565
 
 # Proximity voice chat
 
-{% hint style="info" %}
+{% hint style="info" icon="java" %}
 Java only
 {% endhint %}
 

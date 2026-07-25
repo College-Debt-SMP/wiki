@@ -5,7 +5,7 @@ icon: steam
 
 # Virtual reality
 
-{% hint style="info" %}
+{% hint style="info" icon="java" %}
 Java only
 {% endhint %}
 
