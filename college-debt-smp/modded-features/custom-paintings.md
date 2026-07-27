@@ -5,10 +5,6 @@ icon: image-stack
 
 # Custom Paintings
 
-{% hint style="info" icon="java" %}
-Java only (for now)
-{% endhint %}
-
 Players can submit custom paintings to be added to the server's global resource pack.
 
 ### Submission instructions
@@ -22,7 +18,7 @@ Players can submit custom paintings to be added to the server's global resource 
 #### Step 1: Create your Custom Painting Zip
 
 1. Go to [mc-tools.net](https://mc-tools.net/paintings).
-2. Upload the images you want to turn into paintings. Adjust the settings to your own preference.
+2. Upload the images you want to turn into paintings and adjust it to your liking. To maintain consistency with vanilla Minecraft paintings, use 1x or 2x scaling.
 3. Download the generated resource pack `.zip` file. Ensure the zip contains the `mctools.json` file and the painting PNG textures.
 4. Optionally, load the resource pack in game to see what your custom image would look like. If you wish to edit it further, you can modify the respective `.png` file inside the resource pack archive.
 
