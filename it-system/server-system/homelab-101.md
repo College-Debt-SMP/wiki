@@ -18,7 +18,9 @@ A homelab enables self-hosting, which allows you to run applications fully under
 There are some initial hurdles though when getting started with a homelab.
 
 * You will need to get a server of your own, which can either be free (if you already got the hardware or uses any of the free options) or very pricey depending on what you ended up buying.
-*
+* Electricity cost if you run it at home.
+
+In the long run, in most cases, the initial cost for a homelab will offset the long-term cost of subscription alternatives. A homelab is more of an investment for future use cases.
 
 ### Get a machine
 
@@ -34,4 +36,4 @@ If you cannot create the free instance after getting your account set up, you wi
 
 #### Using an existing hardware
 
-If you have an old laptop or desktop computer at home that is not being used on a daily basis, you can turn it into a homelab. Unless power consumption or computing power is a concern
+If you have an old laptop or desktop computer at home that is not being used on a daily basis, you can turn it into a homelab. Unless power consumption or computing power is a concern, it's more than enough for a server.

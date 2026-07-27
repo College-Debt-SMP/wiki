@@ -6,10 +6,14 @@ icon: arrows-rotate
 
 # Manual restart
 
-The server by itself should always be available for the majority of the time. If you need to manually reboot it for whatever reason, keep reading.
+The server container by itself should always be available for the majority of the time. If you need to manually reboot it for whatever reason, keep reading.
 
 {% hint style="info" %}
 Before proceeding further, ensure that the server is not intentionally down for a planned maintenance.
+{% endhint %}
+
+{% hint style="warning" %}
+Unless you know what you're doing, do not modify the server's Docker Compose stack configuration file.
 {% endhint %}
 
 {% stepper %}

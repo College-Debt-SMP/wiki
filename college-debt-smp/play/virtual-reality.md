@@ -1,6 +1,6 @@
 ---
 description: SteamVR support
-icon: steam
+icon: head-side-goggles
 ---
 
 # Virtual reality

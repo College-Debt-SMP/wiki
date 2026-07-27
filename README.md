@@ -28,7 +28,7 @@ layout:
 
 # Home
 
-Welcome to the documentation site for College Debt. Everything you need to know about the server can be found here. Unless otherwise stated, the only official communication we have is our Discord server.
+Welcome to the wiki site for College Debt. Everything you need to know about the SMP or related stuff can be found here. Unless otherwise stated, the only official communication we have is our Discord server.
 
 ### Content completeness disclaimer
 

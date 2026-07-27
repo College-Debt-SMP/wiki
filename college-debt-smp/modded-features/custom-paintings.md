@@ -28,7 +28,7 @@ Players can submit custom paintings to be added to the server's global resource 
 
 #### Step 2: Submit via GitHub Issues
 
-1. Open a **New Issue** in this repository.
+1. Open a **New Issue** in the [resource pack repository](https://github.com/College-Debt-SMP/resource-pack). Make sure you're signed into your GitHub account.
 2. Attach your downloaded `.zip` file directly into the issue description box.
 3. Add the **`painting-submission`** label to your issue. Do this, or else your request will be ignored!
 4. Create.

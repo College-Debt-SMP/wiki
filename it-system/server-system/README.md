@@ -30,3 +30,8 @@ We currently have no need for more computing power, but you're free to add your 
 [add-your-machine.md](add-your-machine.md)
 {% endcontent-ref %}
 
+If you need a quick introduction to self-hosting.
+
+{% content-ref url="homelab-101.md" %}
+[homelab-101.md](homelab-101.md)
+{% endcontent-ref %}

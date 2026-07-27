@@ -13,7 +13,7 @@ This feature requires the use of the Simple Voice Chat mod
 
 The `audioplayer` command allows you to upload any audio file onto a Music Disc or a Goat Horn. To hear the custom audio, proximity voice chat must be enabled/undeafened (the default key bind to toggle this is `N`). Unlike in-game music discs, parrots and allays do not dance when playing a custom audio.
 
-## Importing custom audio
+### Importing custom audio
 
 Before we touch the command, the server only supports uploading audios with the following criteria:
 
@@ -29,7 +29,7 @@ To upload, you must either have the audio file on your system or have a web URL 
 Adding and applying custom audio via Filebin
 {% endembed %}
 
-## Applying custom audio
+### Applying custom audio
 
 If you follow the corresponding above steps, the mod will give you the option in chat to apply the custom audio. Hold either the music disc or goat horn you want to customize in your main hand before applying. You will be given a prefill command that allows you to do so.
 
@@ -37,7 +37,7 @@ Additionally, you can append an additional argument at the end enclosed in quota
 
 Every audio uploaded to the server will have an ID attached to it. You will need the ID in order to apply the same audio to another disc or horn. Run `/audioplayer id` while holding the item containing the audio to retrieve it.
 
-## Audio ID database
+### Audio ID database
 
 Listed are the numerical ID and the associated track that are known to be already imported into the server. Use this if you want to reuse an existing audio.
 

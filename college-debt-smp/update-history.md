@@ -8,6 +8,14 @@ icon: clock
 
 <details>
 
+<summary>Image to life – 7/26/2026</summary>
+
+
+
+</details>
+
+<details>
+
 <summary>26.2 – 7/7/2026</summary>
 
 After some hiatus due to server-sided issues, the server is now on Minecraft 26.2. Everything is still intact.
