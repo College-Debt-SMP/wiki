@@ -4,14 +4,24 @@ icon: bolt
 
 # Performance improvement
 
-Minecraft Java Edition is not very optimized out of the box. Even with a high-end system, there are additional performance gain we can have. The easiest way to achieve this is to use an optimization modpack.
+Minecraft Java Edition is not very optimized out of the box. Even with a high-end system, there are additional performance gain we can have. The easiest way to achieve this is to play the game with an optimization modpack.
 
-### Fabulously Optimized
+Note: Using Optifine is [not recommended](https://optifine.alternatives.lambdaurora.dev/).
+
+### Third-party Minecraft launcher
+
+The vanilla Minecraft Launcher provided by Mojang does not natively support installing modpack. For this reason, please consider using alternatives like the [Prism Launcher](https://prismlauncher.org/) to avoid manual installation hassle.
+
+### What modpack can I use?
+
+If you're already using a performance modpack that are vanilla-compatible, you can keep using it on the server. If you're coming from unmodded Minecraft, you can use.
+
+#### Fabulously Optimized
 
 For the majority of system, the Fabulously Optimized modpack will do the trick.&#x20;
 
 * For the vanilla Minecraft Launcher, follow the installation instruction [here](https://wiki.download.fo/install-instructions#minecraft-launcher-vanilla)
-* \[Recommended] [Prism Launcher](https://prismlauncher.org/) user can directly download the modpack as an instance. Detailed instruction is [here](https://wiki.download.fo/install-instructions#prism-launcher)
+* \[Recommended]  user can directly download the modpack as an instance. Detailed instruction is [here](https://wiki.download.fo/install-instructions#prism-launcher)
 * For other third-party launchers, instructions are available within the [same page](https://wiki.download.fo/install-instructions)&#x20;
 
 [Optifine](https://optifine.net/home) should not be use on modern version of Minecraft.
