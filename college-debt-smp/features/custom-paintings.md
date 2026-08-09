@@ -45,6 +45,11 @@ You can manage or modify your submission directly from the closed issue thread:
 
 > **Note:** If you have already undone a submission and want to submit again later, please open a **new issue** rather than commenting on the old one.
 
+**Rename title and author:**
+
+* Edit the title of your painting using the command `rename`.
+* Edit the author name of your painting using the command `author`.
+
 ### Witness your artwork in-game
 
 Once your submission is processed, the server will detect the changes and will automatically schedule a restart for within 10 minutes. Your paintings will be on the server after the restart and can be obtained by cycling through the in-game Painting item.

@@ -14,9 +14,11 @@ The vanilla Minecraft Launcher provided by Mojang does not natively support inst
 
 ### What modpack can I use?
 
-If you're already using a performance modpack that are vanilla-compatible, you can keep using it on the server. If you're coming from unmodded Minecraft, you can use.
+If you're already using a performance modpack that are vanilla-compatible, you can keep using it on the server. If you're coming from unmodded Minecraft, we have a custom modpack made specifically for the server called **Together Optimized**
 
-#### Fabulously Optimized
+####
+
+#### Alternative: Fabulously Optimized
 
 For the majority of system, the Fabulously Optimized modpack will do the trick.&#x20;
 

@@ -16,14 +16,15 @@
   * [Virtual reality](college-debt-smp/play/virtual-reality.md)
 * [Update history](college-debt-smp/update-history.md)
 * [Server configs](college-debt-smp/publish-your-docs.md)
-* [Modded features](college-debt-smp/modded-features/README.md)
-  * [Proximity voice chat](college-debt-smp/modded-features/voice-chat.md)
-  * [Custom Musics & Sounds](college-debt-smp/modded-features/custom-musics-and-sounds.md)
-  * [Custom Paintings](college-debt-smp/modded-features/custom-paintings.md)
-  * [Command Utilities](college-debt-smp/modded-features/command-utilities.md)
-  * [Cosmetics](college-debt-smp/modded-features/cosmetics.md)
-  * [World generation](college-debt-smp/modded-features/world-generation.md)
-  * [Maps](college-debt-smp/modded-features/maps.md)
+* [Modpack](college-debt-smp/modpack.md)
+* [Features](college-debt-smp/features/README.md)
+  * [Proximity voice chat](college-debt-smp/features/voice-chat.md)
+  * [Custom Musics & Sounds](college-debt-smp/features/custom-musics-and-sounds.md)
+  * [Custom Paintings](college-debt-smp/features/custom-paintings.md)
+  * [Command Utilities](college-debt-smp/features/command-utilities.md)
+  * [Cosmetics](college-debt-smp/features/cosmetics.md)
+  * [World generation](college-debt-smp/features/world-generation.md)
+  * [Maps](college-debt-smp/features/maps.md)
 
 ## IT System
 
